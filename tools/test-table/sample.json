@@ -1,0 +1,9 @@
+{
+  "strings": {
+    "A": "甲",
+    "Line": "上\n下"
+  },
+  "enums": {
+    "FR2_RefDrawer.Mode": { "None": "不分组" }
+  }
+}
